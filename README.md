@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 Hi, I am Prabin Acharya
 <a target="_blank" align="center">
   <img style="object-fit: cover; object-position: center;" align="right" height="180" width="220" alt="GIF" src="/prabin.gif">
 </a>
