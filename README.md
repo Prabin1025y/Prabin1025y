@@ -1,6 +1,6 @@
 # 💫 About Me:
 <a target="_blank" align="center">
-  <img style="object-fit: cover; object-position: center;" align="right" height="180" width="200" alt="GIF" src="/prabin.gif">
+  <img style="object-fit: cover; object-position: center;" align="right" height="180" width="220" alt="GIF" src="/prabin.gif">
 </a>
 🎓 I’m a Computer Engineering student at IOE Purwanchal Campus.<br>💻 Experienced in the MERN Stack and currently learning Next.js.<br>🌐 Passionate about Web Development and creating innovative solutions.<br>🚀 Always exploring new technologies and building exciting projects.<br><br>📫 Let’s connect! Feel free to reach out or check out my work here!
 
