@@ -4,7 +4,7 @@
 </a>
 🎓 I’m a Computer Engineering student at IOE Purwanchal Campus.<br>💻 Experienced in MERN Stack and currently learning Next.js.<br>🌐 Passionate about Web Development and creating innovative solutions.<br>🚀 Always exploring new technologies and building exciting projects.<br><br>📫 Let’s connect! Feel free to reach out or check out my work here!
 
-
+![](https://komarev.com/ghpvc/?username=prabin1025y&style=pixel)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prabin.acharya.1025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabin1025y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabin-acharya-9345b32b5) 
